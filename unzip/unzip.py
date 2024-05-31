@@ -30,6 +30,6 @@ def extract_all_zips(download_dir, extract_base_dir):
 
 
 if __name__ == "__main__":
-    download_dir = 'download'  # 替换为你的下载目录路径
-    extract_base_dir = 'extracted_files'  # 替换为你的解压基目录路径
-    extract_all_zips(download_dir, extract_base_dir)
+    zipDir = ''  # 替换为你的下载目录路径
+    extract_base_dir = ''  # 替换为你的解压基目录路径
+    extract_all_zips(zipDir, extract_base_dir)
