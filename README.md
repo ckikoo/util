@@ -7,3 +7,4 @@
 |  上传     |   upload  | 基于s3协议上传  |
 |  下载     |  download  |  多线程下载  |
 |  解压zip  |  unzip  |  批量解压文件  |
+|  ftp  |  ftp.go  |  文件上传  |
