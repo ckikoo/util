@@ -5,7 +5,7 @@
 |  名字  |  目录  |  描述  |
 |:-------:|:-------:|:-------:|
 |  s3协议   |   s3  | 基于s3协议实现的云端文件基本操作  |
-|  下载     |  download  |  多线程下载  |
-|  解压zip  |  unzip  |  批量解压文件  |
+|  下载     |  download  |  多线程下载（没啥用）  |
+|  解压zip  |  unzip  |  批量解压文件（没啥用）  |
 |  ftp  |  ftp.go  |  文件上传  |
-|  dockerproxy  |  pull  |  文件上传  |
+|  dockerproxy  |  docker  |  docker代理  |
