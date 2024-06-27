@@ -9,3 +9,4 @@
 |  解压zip  |  unzip  |  批量解压文件（没啥用）  |
 |  ftp  |  ftp.go  |  文件上传  |
 |  dockerproxy  |  docker  |  docker代理  |
+|  邮件  |  email  | 处理脚本（具体可以看imtp）   |
